@@ -7,3 +7,18 @@ body {
     color:black;
     background-color:cornsilk;
 }
+div {
+    /* text-align: center; */
+    border: 5px solid #000000;
+    display:inline;
+    padding: 5px;
+    color:cornflowerblue;
+    font-family: Verdana, sans-serif, Arial;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+body {
+  padding: 20px;
+  text-align: center;
+}
